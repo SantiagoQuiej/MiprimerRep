@@ -1,3 +1,5 @@
+---
+
 name: "🚀 Feature Request"
 about: "Solicita una nueva característica o mejora para el proyecto."
 title: "[FEATURE] - Descripción corta de la mejora"
