@@ -3,10 +3,6 @@ Es un ejemplo de mi primer repositorio
  
  otra decripcion agregada desde local.
 
- Estoy felis ya funciono 
-
- Yuuuju
- 
  Un comit mas desde GitHub
 
  Es algo divertido
